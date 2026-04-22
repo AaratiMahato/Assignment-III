@@ -1,4 +1,4 @@
-# WebXR Immersive Classroom
+#  WebXR Immersive Classroom
 
 ###  Engineering Education using WebXR & A-Frame
 
@@ -6,7 +6,7 @@
 
 This project presents a **browser-based immersive classroom** built using WebXR technologies to enhance engineering education.
 
-It allows users to **interact with 3D models in real-time**, improving understanding of complex engineering concepts such as:
+It allows users to **interact with 3D models in real-time**, improving understanding of concepts such as:
 
 *  Electrical circuits
 *  Current flow
@@ -16,9 +16,8 @@ It allows users to **interact with 3D models in real-time**, improving understan
 
 ---
 
-## Live Demo
+##  Live Demo
 
- **Try it here:**
  https://aaratimahato.github.io/Assignment-III/
 
 ---
@@ -36,7 +35,7 @@ It allows users to **interact with 3D models in real-time**, improving understan
 
 ##  System Architecture
 
-![Architecture](assets/images/figure1_system_architecture.png)
+![Architecture](System\ Architecture.drawio.png)
 
 ---
 
@@ -50,31 +49,19 @@ It allows users to **interact with 3D models in real-time**, improving understan
 
 ---
 
-##  Screenshots
-
-###  Implementation
-
-![Implementation](assets/images/figure14_demo_1.png)
-
-###  Marker Detection
-
-![Marker](assets/images/figure16_demo_3.png)
-
----
-
 ##  Evaluation
 
-### ✔ Usability Testing
+###  Usability Testing
 
 * System launches correctly
 * Camera and marker detection working
 
-### ✔ Learning Assessment
+###  Learning Assessment
 
 * Pre-test vs post-test comparison
-* Improved concept understanding
+* Improved understanding observed
 
-### ✔ Technical Evaluation
+###  Technical Evaluation
 
 * Tested on Chrome, Firefox, Edge
 * Cross-device compatibility confirmed
@@ -83,7 +70,7 @@ It allows users to **interact with 3D models in real-time**, improving understan
 
 ##  Full Report
 
- [Download Final Report](Assignment_III(1).pdf)
+ [Download Report](Assignmnet_III\ (1).pdf)
 
 ---
 
@@ -102,7 +89,7 @@ It allows users to **interact with 3D models in real-time**, improving understan
 
 ---
 
-## Author
+##  Author
 
 **Aarati Mahato**
 Bangor University
@@ -111,7 +98,7 @@ Bangor University
 
 ##  Project Impact
 
-This project demonstrates how **WebXR can transform traditional education into immersive, interactive experiences**, making learning more engaging and accessible.
+This project demonstrates how **WebXR can transform traditional education into immersive, interactive experiences**, improving engagement and accessibility.
 
 ---
 
@@ -120,12 +107,12 @@ This project demonstrates how **WebXR can transform traditional education into i
 ```
 Assignment-III/
 │
-├── assets/
-│   └── images/
-├── report/
-│   └── Assignment_III(1).pdf
 ├── index.html
-├── script.js
+├── indexc.html
+├── indexd.html
+├── System Architecture.drawio.png
+├── system architech.drawio.png
+├── Assignmnet_III (1).pdf
 ├── README.md
 ```
 
